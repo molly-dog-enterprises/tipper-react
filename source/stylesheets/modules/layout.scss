@@ -1,0 +1,8 @@
+.screen {
+  @extend .container;
+
+  .page {
+    @extend .row;
+  }
+
+}
